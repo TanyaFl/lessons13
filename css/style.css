@@ -1,0 +1,11 @@
+.rect {
+  fill:crimson;
+  stroke: darkgoldenrod;
+  stroke-width: 5px;
+  transition: 3s;
+
+}
+svg:hover .rect {
+  fill: darkgoldenrod;
+  stroke: crimson;
+}
